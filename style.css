@@ -1,1 +1,8 @@
-
+body {background-color:#3efaf7; text-align;justify ; font-size;18px;}
+h1 {text-align: center;background-color:#2FBDBA; color: #1731313}
+h3 {text-align: justify; color:#1f7a79;}
+b {color:blue; font-size: 18px;}
+i {color:blue; font-size: 18px;}
+header, footer {background-color: #499cBA; color:ceeffc; text-align: center;font-size: 20px;}
+main {background-color:#8ddefc;}
+.PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; border: black solid 2px;}
